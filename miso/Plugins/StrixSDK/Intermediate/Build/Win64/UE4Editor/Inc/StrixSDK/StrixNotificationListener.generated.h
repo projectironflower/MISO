@@ -15,7 +15,7 @@ struct FStrixRoom;
 #endif
 #define STRIXSDK_StrixNotificationListener_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_54_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_54_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomOwnerChangedNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -32,7 +32,7 @@ static inline void FStrixNotifierRoomOwnerChangedNotificationDelegate_DelegateWr
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_53_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_53_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomContextClosedDelegate_Parms \
 { \
 	int32 channelId; \
@@ -45,7 +45,7 @@ static inline void FStrixNotifierRoomContextClosedDelegate_DelegateWrapper(const
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_52_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_52_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomDeleteNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -58,7 +58,7 @@ static inline void FStrixNotifierRoomDeleteNotificationDelegate_DelegateWrapper(
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_51_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_51_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomKickNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -71,7 +71,7 @@ static inline void FStrixNotifierRoomKickNotificationDelegate_DelegateWrapper(co
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_50_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_50_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomSetMemberNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -86,7 +86,7 @@ static inline void FStrixNotifierRoomSetMemberNotificationDelegate_DelegateWrapp
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_49_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_49_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomSetNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -101,7 +101,7 @@ static inline void FStrixNotifierRoomSetNotificationDelegate_DelegateWrapper(con
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_48_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_48_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomLeaveNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -116,7 +116,7 @@ static inline void FStrixNotifierRoomLeaveNotificationDelegate_DelegateWrapper(c
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_47_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_47_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomJoinNotificationDelegate_Parms \
 { \
 	int32 channelId; \
@@ -131,7 +131,7 @@ static inline void FStrixNotifierRoomJoinNotificationDelegate_DelegateWrapper(co
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_46_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_46_DELEGATE \
 struct _Script_StrixSDK_eventStrixNotifierRoomContextOpenDelegate_Parms \
 { \
 	int32 channelId; \
@@ -144,7 +144,7 @@ static inline void FStrixNotifierRoomContextOpenDelegate_DelegateWrapper(const F
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execStopNotificationListener) \
 	{ \
@@ -155,7 +155,7 @@ static inline void FStrixNotifierRoomContextOpenDelegate_DelegateWrapper(const F
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execStopNotificationListener) \
 	{ \
@@ -166,7 +166,7 @@ static inline void FStrixNotifierRoomContextOpenDelegate_DelegateWrapper(const F
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUStrixNotificationListener(); \
 	friend struct Z_Construct_UClass_UStrixNotificationListener_Statics; \
@@ -175,7 +175,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixNotificationListener)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS \
 private: \
 	static void StaticRegisterNativesUStrixNotificationListener(); \
 	friend struct Z_Construct_UClass_UStrixNotificationListener_Statics; \
@@ -184,7 +184,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixNotificationListener)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_STANDARD_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixNotificationListener(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixNotificationListener) \
@@ -197,7 +197,7 @@ private: \
 public:
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_ENHANCED_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixNotificationListener(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -210,26 +210,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UStrixNotificationListener); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixNotificationListener)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_62_PROLOG
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_GENERATED_BODY_LEGACY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_62_PROLOG
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_STANDARD_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_ENHANCED_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_RPC_WRAPPERS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_INCLASS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h_66_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -237,7 +237,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UClass* StaticClass<class UStrixNotificationListener>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNotificationListener_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

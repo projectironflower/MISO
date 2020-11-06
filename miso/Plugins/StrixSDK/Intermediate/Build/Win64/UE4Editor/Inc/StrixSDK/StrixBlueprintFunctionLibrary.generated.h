@@ -30,7 +30,7 @@ struct FStrixNodeRoomInfo;
 #endif
 #define STRIXSDK_StrixBlueprintFunctionLibrary_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execConv_StrixNetworkIdToStrixRelayArg) \
 	{ \
@@ -1502,7 +1502,7 @@ struct FStrixNodeRoomInfo;
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execConv_StrixNetworkIdToStrixRelayArg) \
 	{ \
@@ -2974,7 +2974,7 @@ struct FStrixNodeRoomInfo;
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUStrixBlueprintFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UStrixBlueprintFunctionLibrary_Statics; \
@@ -2983,7 +2983,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixBlueprintFunctionLibrary)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS \
 private: \
 	static void StaticRegisterNativesUStrixBlueprintFunctionLibrary(); \
 	friend struct Z_Construct_UClass_UStrixBlueprintFunctionLibrary_Statics; \
@@ -2992,7 +2992,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixBlueprintFunctionLibrary)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_STANDARD_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixBlueprintFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixBlueprintFunctionLibrary) \
@@ -3005,7 +3005,7 @@ private: \
 public:
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_ENHANCED_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixBlueprintFunctionLibrary(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -3018,26 +3018,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UStrixBlueprintFunctionLibrary); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixBlueprintFunctionLibrary)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_24_PROLOG
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_GENERATED_BODY_LEGACY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_24_PROLOG
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_STANDARD_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_ENHANCED_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_RPC_WRAPPERS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_INCLASS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h_27_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -3045,7 +3045,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UClass* StaticClass<class UStrixBlueprintFunctionLibrary>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixBlueprintFunctionLibrary_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

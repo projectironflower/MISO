@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define STRIXSDK_StrixOrder_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixOrder_h_18_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixOrder_h_18_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FStrixOrder_Statics; \
 	STRIXSDK_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UScriptStruct* StaticStruct<struct FStrixOrder>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixOrder_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixOrder_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

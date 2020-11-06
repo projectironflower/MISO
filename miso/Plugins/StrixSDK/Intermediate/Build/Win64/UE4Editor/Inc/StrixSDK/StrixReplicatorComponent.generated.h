@@ -13,42 +13,42 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define STRIXSDK_StrixReplicatorComponent_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_68_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_68_DELEGATE \
 static inline void FStrixReplicatorChangeOwnerDelegate_DelegateWrapper(const FMulticastScriptDelegate& StrixReplicatorChangeOwnerDelegate) \
 { \
 	StrixReplicatorChangeOwnerDelegate.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_67_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_67_DELEGATE \
 static inline void FStrixReplicatorDesyncDelegate_DelegateWrapper(const FMulticastScriptDelegate& StrixReplicatorDesyncDelegate) \
 { \
 	StrixReplicatorDesyncDelegate.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_66_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_66_DELEGATE \
 static inline void FStrixReplicatorSyncDelegate_DelegateWrapper(const FMulticastScriptDelegate& StrixReplicatorSyncDelegate) \
 { \
 	StrixReplicatorSyncDelegate.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_65_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_65_DELEGATE \
 static inline void FStrixReplicatorDestroyDelegate_DelegateWrapper(const FMulticastScriptDelegate& StrixReplicatorDestroyDelegate) \
 { \
 	StrixReplicatorDestroyDelegate.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_64_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_64_DELEGATE \
 static inline void FStrixReplicatorInitDelegate_DelegateWrapper(const FMulticastScriptDelegate& StrixReplicatorInitDelegate) \
 { \
 	StrixReplicatorInitDelegate.ProcessMulticastDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetIsOwnerAndReplicating) \
 	{ \
@@ -92,7 +92,7 @@ static inline void FStrixReplicatorInitDelegate_DelegateWrapper(const FMulticast
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetIsOwnerAndReplicating) \
 	{ \
@@ -136,7 +136,7 @@ static inline void FStrixReplicatorInitDelegate_DelegateWrapper(const FMulticast
 	}
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUStrixReplicatorComponent(); \
 	friend struct Z_Construct_UClass_UStrixReplicatorComponent_Statics; \
@@ -145,7 +145,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixReplicatorComponent)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS \
 private: \
 	static void StaticRegisterNativesUStrixReplicatorComponent(); \
 	friend struct Z_Construct_UClass_UStrixReplicatorComponent_Statics; \
@@ -154,7 +154,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixReplicatorComponent)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_STANDARD_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixReplicatorComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixReplicatorComponent) \
@@ -167,7 +167,7 @@ private: \
 public:
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_ENHANCED_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UStrixReplicatorComponent(UStrixReplicatorComponent&&); \
@@ -178,26 +178,26 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UStrixReplicatorComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UStrixReplicatorComponent)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_76_PROLOG
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_GENERATED_BODY_LEGACY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_76_PROLOG
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_STANDARD_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_ENHANCED_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_RPC_WRAPPERS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_INCLASS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h_80_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -205,7 +205,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UClass* StaticClass<class UStrixReplicatorComponent>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_Components_StrixReplicatorComponent_h
 
 
 #define FOREACH_ENUM_ECONNECTIONCLOSEDBEHAVIOUR(op) \

@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define STRIXSDK_StrixErrors_generated_h
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixErrors_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixErrors_h
 
 
 #define FOREACH_ENUM_ESTRIXERRORCATEGORY(op) \

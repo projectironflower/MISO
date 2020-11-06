@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define STRIXSDK_StrixNodeRoom_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixNodeRoom_h_21_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixNodeRoom_h_21_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FStrixNodeRoom_Statics; \
 	STRIXSDK_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UScriptStruct* StaticStruct<struct FStrixNodeRoom>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixNodeRoom_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixNodeRoom_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

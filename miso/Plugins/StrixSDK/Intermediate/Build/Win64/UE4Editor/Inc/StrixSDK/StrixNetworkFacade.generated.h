@@ -17,7 +17,7 @@ enum class EStrixErrorCategory : uint8;
 #endif
 #define STRIXSDK_StrixNetworkFacade_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_80_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_80_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomDirectRelayDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -30,7 +30,7 @@ static inline void FStrixRoomDirectRelayDelegate_DelegateWrapper(const FScriptDe
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_79_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_79_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomRelayDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -43,7 +43,7 @@ static inline void FStrixRoomRelayDelegate_DelegateWrapper(const FScriptDelegate
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_78_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_78_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomMemberKickDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -56,7 +56,7 @@ static inline void FStrixRoomMemberKickDelegate_DelegateWrapper(const FScriptDel
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_77_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_77_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomMemberSetDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -69,7 +69,7 @@ static inline void FStrixRoomMemberSetDelegate_DelegateWrapper(const FScriptDele
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_76_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_76_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomSetDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -82,7 +82,7 @@ static inline void FStrixRoomSetDelegate_DelegateWrapper(const FScriptDelegate& 
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_75_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_75_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomDeleteDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -95,7 +95,7 @@ static inline void FStrixRoomDeleteDelegate_DelegateWrapper(const FScriptDelegat
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_74_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_74_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomLeaveDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -108,7 +108,7 @@ static inline void FStrixRoomLeaveDelegate_DelegateWrapper(const FScriptDelegate
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_73_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_73_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomContextOpenDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -121,7 +121,7 @@ static inline void FStrixRoomContextOpenDelegate_DelegateWrapper(const FScriptDe
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_70_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_70_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomSearchDelegate_Parms \
 { \
 	TArray<FStrixRoom> Rooms; \
@@ -134,7 +134,7 @@ static inline void FStrixRoomSearchDelegate_DelegateWrapper(const FScriptDelegat
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_69_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_69_DELEGATE \
 struct _Script_StrixSDK_eventStrixRoomServerConnectedDelegate_Parms \
 { \
 	int32 ChannelId; \
@@ -147,7 +147,7 @@ static inline void FStrixRoomServerConnectedDelegate_DelegateWrapper(const FScri
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_66_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_66_DELEGATE \
 struct _Script_StrixSDK_eventStrixNodeGetCountDelegate_Parms \
 { \
 	int32 Count; \
@@ -160,7 +160,7 @@ static inline void FStrixNodeGetCountDelegate_DelegateWrapper(const FScriptDeleg
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_65_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_65_DELEGATE \
 struct _Script_StrixSDK_eventStrixNodeRoomSearchDelegate_Parms \
 { \
 	TArray<FStrixNodeRoomInfo> NodeRooms; \
@@ -173,7 +173,7 @@ static inline void FStrixNodeRoomSearchDelegate_DelegateWrapper(const FScriptDel
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_64_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_64_DELEGATE \
 struct _Script_StrixSDK_eventStrixNodeSearchDelegate_Parms \
 { \
 	TArray<FStrixNode> Nodes; \
@@ -186,14 +186,14 @@ static inline void FStrixNodeSearchDelegate_DelegateWrapper(const FScriptDelegat
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_63_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_63_DELEGATE \
 static inline void FStrixMasterServerConnectedDelegate_DelegateWrapper(const FScriptDelegate& StrixMasterServerConnectedDelegate) \
 { \
 	StrixMasterServerConnectedDelegate.ProcessDelegate<UObject>(NULL); \
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_60_DELEGATE \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_60_DELEGATE \
 struct _Script_StrixSDK_eventStrixErrorCodeFailureDelegate_Parms \
 { \
 	int32 ErrorCode; \
@@ -208,9 +208,9 @@ static inline void FStrixErrorCodeFailureDelegate_DelegateWrapper(const FScriptD
 }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS_NO_PURE_DECLS
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS_NO_PURE_DECLS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS_NO_PURE_DECLS
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUStrixNetworkFacade(); \
 	friend struct Z_Construct_UClass_UStrixNetworkFacade_Statics; \
@@ -219,7 +219,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixNetworkFacade)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS \
 private: \
 	static void StaticRegisterNativesUStrixNetworkFacade(); \
 	friend struct Z_Construct_UClass_UStrixNetworkFacade_Statics; \
@@ -228,7 +228,7 @@ public: \
 	DECLARE_SERIALIZER(UStrixNetworkFacade)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_STANDARD_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixNetworkFacade(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixNetworkFacade) \
@@ -241,7 +241,7 @@ private: \
 public:
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_ENHANCED_CONSTRUCTORS \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UStrixNetworkFacade(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -254,29 +254,29 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UStrixNetworkFacade); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UStrixNetworkFacade)
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
 	FORCEINLINE static uint32 __PPO__m_spawnerClasses() { return STRUCT_OFFSET(UStrixNetworkFacade, m_spawnerClasses); }
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_85_PROLOG
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_GENERATED_BODY_LEGACY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_85_PROLOG
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_STANDARD_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS_NO_PURE_DECLS \
-	Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_ENHANCED_CONSTRUCTORS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_PRIVATE_PROPERTY_OFFSET \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_RPC_WRAPPERS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_INCLASS_NO_PURE_DECLS \
+	miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h_88_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -284,7 +284,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UClass* StaticClass<class UStrixNetworkFacade>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_StrixNetworkFacade_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

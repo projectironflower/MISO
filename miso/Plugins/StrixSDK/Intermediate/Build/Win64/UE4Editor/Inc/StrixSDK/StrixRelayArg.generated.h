@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define STRIXSDK_StrixRelayArg_generated_h
 
-#define Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixRelayArg_h_17_GENERATED_BODY \
+#define miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixRelayArg_h_17_GENERATED_BODY \
 	friend struct Z_Construct_UScriptStruct_FStrixRelayArg_Statics; \
 	STRIXSDK_API static class UScriptStruct* StaticStruct();
 
@@ -21,7 +21,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 template<> STRIXSDK_API UScriptStruct* StaticStruct<struct FStrixRelayArg>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID Sample_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixRelayArg_h
+#define CURRENT_FILE_ID miso_Plugins_StrixSDK_Source_StrixSDK_Public_Adapter_StrixRelayArg_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
