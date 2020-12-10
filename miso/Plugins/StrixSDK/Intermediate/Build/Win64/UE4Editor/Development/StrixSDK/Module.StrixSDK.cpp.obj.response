@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Private
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Private
 /I ThirdParty
 /I ThirdParty\OpenSSL\1.1.1\include\Win64\VS2015
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
@@ -500,26 +500,26 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\openssl-1.0.2-compat
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-replica
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync
-/I C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Util
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\openssl-1.0.2-compat
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-replica
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Util
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -543,18 +543,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp"
-/FI"C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h"
-/Fo"C:\Users\KBSsa\Documents\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp"
+/FI"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h"
+/Fo"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp.obj"
 /TP
 /GR-
 /W4
