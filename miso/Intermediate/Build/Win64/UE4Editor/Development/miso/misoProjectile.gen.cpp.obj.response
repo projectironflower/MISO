@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso
-/I C:\Users\KBSsa\Documents\MISO\miso\Source
-/I C:\Users\KBSsa\Documents\MISO\miso\Source\miso
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Source
+/I C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Source\miso
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -527,18 +527,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.21.27702\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"
-/FI"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso\misoProjectile.gen.cpp"
-/FI"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h"
-/Fo"C:\Users\KBSsa\Documents\MISO\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\misoProjectile.gen.cpp.obj"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
+/FI"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso\misoProjectile.gen.cpp"
+/FI"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h"
+/Fo"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\misoProjectile.gen.cpp.obj"
 /TP
 /GR-
 /W4
