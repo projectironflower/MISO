@@ -1,18 +1,32 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\mo_gu\Documents\HAL\miso_Git).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\yu.nishimaki\Documents\GP41).
   Parsing headers for misoEditor
-    Running UnrealHeaderTool "C:\Users\mo_gu\Documents\HAL\miso_Git\miso\miso.uproject" "C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\misoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for misoEditor in 5.1746956 seconds
+    Running UnrealHeaderTool "C:\Users\yu.nishimaki\Documents\GP41\miso\miso.uproject" "C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\misoEditor\Development\misoEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for misoEditor in 25.0645376 seconds
   Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 6 actions with 12 processes...
-    [1/6] UE4Editor-StrixSDK-0003.lib
-       ライブラリ C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0003.lib とオブジェクト C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0003.exp を作成中
-    [2/6] misoGameMode.cpp
-    [3/6] UE4Editor-miso-0003.lib
-       ライブラリ C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0003.lib とオブジェクト C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0003.exp を作成中
-    [4/6] UE4Editor-StrixSDK-0003.dll
-       ライブラリ C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0003.suppressed.lib とオブジェクト C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0003.suppressed.exp を作成中
-    [5/6] UE4Editor-miso-0003.dll
-       ライブラリ C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0003.suppressed.lib とオブジェクト C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0003.suppressed.exp を作成中
-    [6/6] misoEditor.target
-  Total time in Parallel executor: 2.41 seconds
-  Total execution time: 8.48 seconds
+  Distributing 6 actions to XGE
+  --------------------Build System Warning---------------------------------------
+  License is invalid:
+      License information is invalid. Please try reloading your license file using the Coordinator Monitor application on the Coordinator machine, or reinstall IncrediBuild.
+      This build will run in standalone mode.
+  
+  -------------------------------------------------------------------------------
+  --------------------Project: Default-------------------------------------------
+  misoGameMode.cpp (0:01.04 at +0:00)
+  UE4Editor-StrixSDK-0008.dll (0:02.17 at +0:01)
+     ライブラリ C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0008.suppressed.lib とオブジェクト C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0008.suppressed.exp を作成中
+  UE4Editor-miso-0008.dll (0:01.11 at +0:03)
+     ライブラリ C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0008.suppressed.lib とオブジェクト C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0008.suppressed.exp を作成中
+  UE4Editor-miso-0008.lib (0:00.15 at +0:04)
+     ライブラリ C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0008.lib とオブジェクト C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\UE4Editor-miso-0008.exp を作成中
+  UE4Editor-StrixSDK-0008.lib (0:00.20 at +0:04)
+     ライブラリ C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0008.lib とオブジェクト C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK-0008.exp を作成中
+  misoEditor.target (0:00.56 at +0:04)
+  ---------------------- Done ----------------------
+  
+      Rebuild All: 1 succeeded, 0 failed, 0 skipped
+  
+  1 build system warning(s):
+     - License is invalid
+  
+  Total time in XGE executor: 6.40 seconds
+  Total execution time: 33.03 seconds

@@ -1,11 +1,11 @@
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h
-c:\users\mo_gu\documents\hal\miso_git\miso\source\miso\misoHUD.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h
+c:\users\yu.nishimaki\documents\gp41\miso\source\miso\misoHUD.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso\misoHUD.generated.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Inc\miso\misoHUD.generated.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Public\CanvasItem.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/Font.h

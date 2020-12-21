@@ -9,7 +9,7 @@ AmisoGameMode::AmisoGameMode()
 	: Super()
 {
 	// set default pawn class to our Blueprinted character
-	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/Human/FirstPersonCPP/Blueprints/FirstPersonCharacter.FirstPersonCharacter_C"));
+	static ConstructorHelpers::FClassFinder<APawn> PlayerPawnClassFinder(TEXT("/Game/Human/FirstPersonCPP/Blueprints/FirstPersonCharacter_C.FirstPersonCharacter_C_C"));
 	DefaultPawnClass = PlayerPawnClassFinder.Class;
 
 	// use our custom HUD class
