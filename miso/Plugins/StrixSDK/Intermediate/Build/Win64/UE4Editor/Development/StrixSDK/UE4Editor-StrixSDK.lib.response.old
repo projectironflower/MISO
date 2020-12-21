@@ -6,10 +6,10 @@
 /NAME:"UE4Editor-StrixSDK.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.obj"
-"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp.obj"
-"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.1_of_2.cpp.obj"
-"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp.obj"
-"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Default.rc2.res"
-/OUT:"C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK.lib"
+"C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.cpp.obj"
+"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.1_of_2.cpp.obj"
+"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp.obj"
+"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Default.rc2.res"
+/OUT:"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\UE4Editor-StrixSDK.lib"
 /INCLUDE:IMPLEMENT_MODULE_StrixSDK

@@ -1,2 +1,2 @@
-C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h
-c:\users\yu.nishimaki\documents\gp41\miso\source\miso\miso.h
+C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Intermediate\Build\Win64\UE4Editor\Development\miso\Definitions.miso.h
+c:\users\mo_gu\documents\hal\miso_git\miso\source\miso\miso.h
