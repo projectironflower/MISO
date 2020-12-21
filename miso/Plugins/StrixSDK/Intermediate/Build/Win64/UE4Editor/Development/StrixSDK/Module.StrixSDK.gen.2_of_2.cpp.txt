@@ -1,11 +1,11 @@
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixCondition.gen.cpp
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixCondition.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixCondition.gen.cpp
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixCondition.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
@@ -17,10 +17,10 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
@@ -47,210 +47,210 @@ C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
 C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
 C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixCondition.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixErrors.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixErrors.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixErrors.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixMovementSynchronizer.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixMovementSynchronizer.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNode.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixPropertyMap.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixPropertyMap.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNode.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNodeRoom.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoomInfo.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNodeRoomInfo.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixOrder.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixOrder.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRelayArg.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRelayArg.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRoom.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRoomMember.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Sync/UETypeRegistry.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Sync/UEClassNetworkObjectSpawner.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixCondition.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixErrors.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixErrors.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixErrors.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixMovementSynchronizer.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixMovementSynchronizer.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNode.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixPropertyMap.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixPropertyMap.generated.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNode.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNodeRoom.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoomInfo.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNodeRoomInfo.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixOrder.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixOrder.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRelayArg.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRelayArg.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRoom.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoomMember.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRoomMember.generated.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Sync/UETypeRegistry.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\source\strixsdk\public\Sync/UEClassNetworkObjectSpawner.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNetworkFacade.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Core.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformFile.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformIncludes.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MessageDialog.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/StringUtility.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/MRUArray.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/TransArray.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/ArrayBuilder.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/ThreadManager.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/StaticBitArray.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/MapBuilder.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/ThreadingBase.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Internationalization/Culture.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/OutputDevices.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/TimeGuard.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/BufferArchive.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayReader.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayWriter.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/BufferWriter.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/WildcardString.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/CircularQueue.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/CallbackDevice.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/VRObjectVersion.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonitoredProcess.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
-C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
-c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNetworkFacade.generated.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Core.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformFile.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MessageDialog.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/StringUtility.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/MRUArray.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/TransArray.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/ThreadManager.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/StaticBitArray.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/MapBuilder.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/ThreadingBase.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Internationalization/Culture.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\HAL/OutputDevices.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/TimeGuard.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/BufferArchive.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayReader.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Serialization/BufferWriter.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/WildcardString.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Containers/CircularQueue.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/CallbackDevice.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+D:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+d:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\unordered_map
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xhash
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixReplicatorComponent.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixMovementController.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObject.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixMovementSynchronizer.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNetworkFacade.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNetworkId.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixNetworkId.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNetworkId.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNode.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNodeRoom.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNodeRoomInfo.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNotificationListener.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixNotificationListener.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNotificationListener.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixOrder.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixPropertyMap.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRelayArg.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixReplicatorComponent.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRoom.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRoomMember.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRPCContext.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixRPCContext.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRPCContext.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixSDK.init.gen.cpp
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixTransformSyncComponent.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixTransformSyncComponent.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixTransformSyncComponent.generated.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixReplicatorComponent.generated.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement/StrixMovementController.h
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObject.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixMovementSynchronizer.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNetworkFacade.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNetworkId.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixNetworkId.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNetworkId.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNode.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNodeRoom.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNodeRoomInfo.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixNotificationListener.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixNotificationListener.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixNotificationListener.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixOrder.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixPropertyMap.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRelayArg.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixReplicatorComponent.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRoom.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRoomMember.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixRPCContext.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Adapter/StrixRPCContext.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixRPCContext.generated.h
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixSDK.init.gen.cpp
+D:/user/Document/HAL/AT14/MISO/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4Editor/Inc/StrixSDK/StrixTransformSyncComponent.gen.cpp
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixTransformSyncComponent.h
+d:\user\document\hal\at14\miso\miso\plugins\strixsdk\intermediate\build\win64\ue4editor\inc\strixsdk\StrixTransformSyncComponent.generated.h
