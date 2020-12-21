@@ -28,7 +28,7 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Private
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Private
 /I ThirdParty
 /I ThirdParty\OpenSSL\1.1.1\include\Win64\VS2015
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
@@ -500,26 +500,26 @@
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
 /I Runtime\ClothingSystemRuntimeInterface
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\openssl-1.0.2-compat
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-replica
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync
-/I C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Util
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Inc\StrixSDK
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\glm
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\openssl-1.0.2-compat
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-replica
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Adapter
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Movement
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Rpc
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Serialization
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync
+/I D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Util
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -544,17 +544,17 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
 /I "C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6\include\um"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\yu.nishimaki\Documents\GP41\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp"
-/FI"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h"
-/Fo"C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp.obj"
+/FI"D:\user\Document\HAL\AT14\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"D:\user\Document\HAL\AT14\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"D:\user\Document\HAL\AT14\MISO\miso\Intermediate\Build\Win64\misoEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp"
+/FI"D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Definitions.StrixSDK.h"
+/Fo"D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4Editor\Development\StrixSDK\Module.StrixSDK.gen.2_of_2.cpp.obj"
 /TP
 /GR-
 /W4

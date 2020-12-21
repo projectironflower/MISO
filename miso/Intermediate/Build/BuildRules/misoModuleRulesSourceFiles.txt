@@ -1,4 +1,4 @@
-C:\Users\yu.nishimaki\Documents\GP41\miso\Source\miso\miso.Build.cs
-C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\StrixSDK.Build.cs
-C:\Users\yu.nishimaki\Documents\GP41\miso\Source\miso.Target.cs
-C:\Users\yu.nishimaki\Documents\GP41\miso\Source\misoEditor.Target.cs
+D:\user\Document\HAL\AT14\MISO\miso\Source\miso\miso.Build.cs
+D:\user\Document\HAL\AT14\MISO\miso\Plugins\StrixSDK\Source\StrixSDK\StrixSDK.Build.cs
+D:\user\Document\HAL\AT14\MISO\miso\Source\miso.Target.cs
+D:\user\Document\HAL\AT14\MISO\miso\Source\misoEditor.Target.cs
