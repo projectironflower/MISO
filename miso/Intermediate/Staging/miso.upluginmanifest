@@ -124,7 +124,7 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Online/AdvancedSessions/AdvancedSessions.uplugin",
+			"File": "../../../miso/Plugins/AdvancedSessions/AdvancedSessions/AdvancedSessions.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,
@@ -161,7 +161,7 @@
 			}
 		},
 		{
-			"File": "../../../Engine/Plugins/Online/AdvancedSteamSessions/AdvancedSteamSessions.uplugin",
+			"File": "../../../miso/Plugins/AdvancedSessions/AdvancedSteamSessions/AdvancedSteamSessions.uplugin",
 			"Descriptor": 
 			{
 				"FileVersion": 3,

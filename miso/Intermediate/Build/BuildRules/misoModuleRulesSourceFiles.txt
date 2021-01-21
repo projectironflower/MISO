@@ -1,4 +1,6 @@
 C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Source\miso\miso.Build.cs
+C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\AdvancedSessions.Build.cs
+C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\AdvancedSteamSessions.Build.cs
 C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\StrixSDK.Build.cs
 C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Source\miso.Target.cs
 C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Source\misoEditor.Target.cs
