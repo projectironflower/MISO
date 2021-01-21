@@ -1,17 +1,17 @@
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Shipping\StrixSDK\Definitions.StrixSDK.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4/Inc/StrixSDK/StrixAnimationSyncComponent.gen.cpp
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Intermediate\Build\Win64\UE4\Shipping\StrixSDK\Definitions.StrixSDK.h
+C:/Users/yu.nishimaki/Documents/GP41/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4/Inc/StrixSDK/StrixAnimationSyncComponent.gen.cpp
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixAnimationSyncComponent.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\StrixErrors.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixErrors.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixCondition.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK/Public/Components/StrixAnimationSyncComponent.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Components/StrixReplicatorComponent.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\StrixNetworkFacade.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\StrixErrors.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/error/ErrorCategory.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixErrors.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixCondition.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Condition.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/Object.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_Object.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
@@ -33,11 +33,11 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_exception.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\eh.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_terminate.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClassT.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/_MetaClassT.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/MetaClass.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/util/SuperFastHash.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\map
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\tuple
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtree
@@ -54,85 +54,85 @@ C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.1
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\locale.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\sstream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\algorithm
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/Logger.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogHandler.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogFormatter.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogRecord.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/logging/LogLevel.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iostream
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\set
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\list
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PropertyAccessor.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializerImpl.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/DynamicSerializer.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/serialization/serializer/SerializerImpl.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Encoder.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Format.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/io/Decoder.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\chrono
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ratio
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\time.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\time.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xtimec.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\thr/xthrcommon.h
-C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\assert.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixCondition.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNode.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixPropertyMap.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixPropertyMap.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNode.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNodeRoom.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoomInfo.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNodeRoomInfo.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixOrder.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixOrder.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRelayArg.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRelayArg.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRoom.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRoomMember.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Sync/UETypeRegistry.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Sync/UEClassNetworkObjectSpawner.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\assert.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixCondition.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNode.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixPropertyMap.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/ObjectAdapter.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/WrapperObject.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-net-2\strix/net/object/PredefinedClassId.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixPropertyMap.generated.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNode.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNode.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/UID.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/Node.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/Model.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/node/NodeInfo.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNode.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/CustomizableMatchServerNodeRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/node/model/MatchServerNodeRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-node\strix/client/node/model/NodeRoom.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNodeRoom.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNodeRoomInfo.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNodeRoomInfo.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixOrder.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/Order.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/model/manager/filter/OrderType.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixOrder.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRelayArg.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRelayArg.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoom.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/message/ParameterMessage.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/Room.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRoom.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixRoomMember.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/CustomizableMatchRoomMember.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-match\strix/client/match/room/model/MatchRoomMember.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/model/RoomMember.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixRoomMember.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Sync/UETypeRegistry.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Sync/UEClassNetworkObjectSpawner.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectSpawner.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/util/Delegates.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\functional
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNetworkFacade.generated.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeAuthContextFactory.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/node/NodeSelectionStrategy.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/StrixNetworkEvents.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNetworkFacade.generated.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Public\Sync/UENotifiableSyncGroup.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
 C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Core\Public\Core.h
@@ -226,20 +226,20 @@ c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UOb
 c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
 c:\program files\epic games\ue_4.23\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncProperty.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/SyncGroup.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/PropertyMap.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/sync/ScheduledSyncGroup.h
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\unordered_map
 C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xhash
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixReplicatorComponent.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixAnimationSyncComponent.generated.h
-C:/Users/mo_gu/Documents/HAL/miso_Git/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4/Inc/StrixSDK/StrixBlueprintFunctionLibrary.gen.cpp
-C:\Users\mo_gu\Documents\HAL\miso_Git\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixBlueprintFunctionLibrary.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNetworkId.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNetworkId.generated.h
-c:\users\mo_gu\documents\hal\miso_git\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixBlueprintFunctionLibrary.generated.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/network/RoomContext.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-room\strix/client/room/RoomEvents.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-core\strix/client/core/NotificationEventArgs.h
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK\Dependencies\strix-client-ingame\strix/client/ingame/object/NetworkObjectFlags.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixReplicatorComponent.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixAnimationSyncComponent.generated.h
+C:/Users/yu.nishimaki/Documents/GP41/miso/Plugins/StrixSDK/Intermediate/Build/Win64/UE4/Inc/StrixSDK/StrixBlueprintFunctionLibrary.gen.cpp
+C:\Users\yu.nishimaki\Documents\GP41\miso\Plugins\StrixSDK\Source\StrixSDK/Public/StrixBlueprintFunctionLibrary.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\source\strixsdk\public\Adapter/StrixNetworkId.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixNetworkId.generated.h
+c:\users\yu.nishimaki\documents\gp41\miso\plugins\strixsdk\intermediate\build\win64\ue4\inc\strixsdk\StrixBlueprintFunctionLibrary.generated.h
