@@ -49,7 +49,7 @@
 #define UE_BUILD_SHIPPING 1
 #define UE_ENGINE_DIRECTORY "../../../../../../../../Program Files/Epic Games/UE_4.23/Engine/"
 #define UE_IS_ENGINE_MODULE 0
-#define UE_PROJECT_NAME miso
+#define UE_PROJECT_NAME Oneness
 #define WITH_ADVANCED_SESSIONS 1
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
 #define IMPLEMENT_SIGNING_KEY_REGISTRATION() 
