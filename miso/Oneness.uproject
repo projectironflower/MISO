@@ -61,5 +61,8 @@
 				"TVOS"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
